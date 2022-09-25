@@ -1,7 +1,7 @@
 import { EnergyType } from '../Energy';
-import ArcheType from './Archetype';
+import Archetype from './Archetype';
 
-class Necromancer extends ArcheType {
+class Necromancer extends Archetype {
   static instaces = 0;
   private _energy: EnergyType;
 

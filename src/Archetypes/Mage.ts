@@ -1,7 +1,7 @@
 import { EnergyType } from '../Energy';
-import ArcheType from './Archetype';
+import Archetype from './Archetype';
 
-class Mage extends ArcheType {
+class Mage extends Archetype {
   static instaces = 0;
   private _energy: EnergyType;
 
