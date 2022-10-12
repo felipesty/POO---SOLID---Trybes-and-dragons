@@ -1,5 +1,5 @@
 # Projeto Trybes and Dragons
-Projeto realizado com o uso do typeScript para botar em prática os novos conceitos de heranças, polimorfismo, interfaces, programação orientada a objetos e os principios de SOLID.
+Projeto realizado com o uso do typeScript para botar em prática os novos conceitos de heranças, polimorfismo, interfaces, programação orientada a objetos e os princípios de SOLID.
 Com isso foi preciso fazer um sistema de RPG com as seguintes implementações:
    - Classe Race e as classes que herdam Race
    - Interface Energy
