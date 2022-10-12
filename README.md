@@ -1,16 +1,17 @@
-# 🚧 README em construção 🚧
+# Projeto Trybes and Dragons
+Projeto realizado com o uso do typeScript para botar em prática os novos conceitos de heranças, polimorfismo, interfaces, programação orientada a objetos e os principios de SOLID.
+Com isso foi preciso fazer um sistema de RPG com as seguintes implementações:
+   - Classe Race e as classes que herdam Race
+   - Interface Energy
+   - Classe Archetype e as classes que herdam Archetypee e implementam Energy
+   - Interface Fighter
+   - Classe Character e implementa Fighter
+   - Interface SimpleFighter
+   - Classe Monster que implementa SimpleFighter
+   - Classe PVP
 
-<!-- Olá, Tryber!
-
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+---
+## Tecnologias utilizadas
+ - TypeScript
+ - POO(Programação orientada a objetos)
+ - Princípios SOLID
